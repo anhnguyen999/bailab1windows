@@ -8,5 +8,6 @@ namespace ConsoleApplication4
 {
     class SinhVien
     {
+        public int MyProperty { get; set; }
     }
 }
